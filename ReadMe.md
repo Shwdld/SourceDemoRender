@@ -21,6 +21,7 @@ Games that are added:
 Known games that don't work:
 * Counter-Strike: Global Offensive - *Uses stoneage D3D9 that doesn't support texture sharing*
 * Portal 2 - *Same as above*
+* Untitled Goose Game *Because it's a goose damn it*
 
 ## Prerequisites
 Any DirectX 11 (Direct3D 11.0) compatible adapter with minimum of Windows 7 is required. If you wish to not use **sdr_video_d3d11_staging**, Windows 8.1 or later is required.
